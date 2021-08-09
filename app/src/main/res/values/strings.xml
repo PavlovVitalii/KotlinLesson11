@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KotlinLesson11</string>
+    <string name="switch_4">Switch_4</string>
+    <string name="switch_5">Switch_5</string>
+    <string name="switch_3">Switch_3</string>
+    <string name="switch_2">Switch_2</string>
+    <string name="switch_1">Switch_1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_first_fragment">Hello blank fragment</string>
+    <string name="upward">Upward</string>
+    <string name="download">Download</string>
+    <string name="first_fragment">First fragment</string>
+    <string name="second_fragment">Second fragment</string>
+</resources>
